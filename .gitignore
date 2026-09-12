@@ -1,6 +1,1 @@
 myenv/
-node_modules
-
-# Local environment files
-.env.*.local
-config.bat
